@@ -1,0 +1,64 @@
+h2{
+    color: green;
+}
+.p{
+    color: white;
+    align-items: center;
+    margin: auto;
+    margin-left:650px ;
+    max-width: 400px;
+    max-height: 40px;
+    width:fit-content;
+    text-shadow:1px 1px 1px black;
+    text-transform: capitalize;
+    letter-spacing:1px ;
+    background-color: brown;
+    border: 5px solid white;
+    padding: 15px ;
+    overflow: hidden;
+
+}
+
+.task_2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.e1{
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 900;
+}
+.e2{
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: 900;
+}
+.e3{
+    text-transform: lowercase;
+    font-size: large;
+    font-weight: 900;
+}
+.task_3 div{
+    margin: auto;
+    background-color: rgb(223, 221, 221);
+    max-width: 400px;
+    font-family: sans-serif;
+    padding: 12px;
+    font-size: large;
+    font-weight: 550;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    overflow: hidden;
+}
+.l2{
+    height: 30px;
+}
+
+.l3{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+
+
